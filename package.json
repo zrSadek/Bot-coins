@@ -1,0 +1,20 @@
+{
+  "name": "internatcoins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "crypto-price": "^0.0.6",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  }
+}
